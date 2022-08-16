@@ -1,0 +1,47 @@
+_repo: Hien-le-Maboul_68588
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Rivoire, André
+    alias: Rivoire, Andre
+    birthdate: 1872
+    deathdate: 1930
+    gutenberg_agent_id: '54847'
+    url: http://www.gutenberg.org/2009/agents/54847
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Rivoire
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Rivoire
+creator:
+  author:
+    agent_name: Nolly, Emile
+    aliases:
+    - Nolly, Émile
+    - Detanger, Emile
+    - Détanger, Emile
+    birthdate: 1880
+    deathdate: 1914
+    gutenberg_agent_id: '54846'
+    url: http://www.gutenberg.org/2009/agents/54846
+    wikipedia: https://fr.wikipedia.org/wiki/%C3%89mile_Nolly
+description: ''
+gutenberg_issued: '2022-07-22'
+identifiers:
+  gutenberg: '68588'
+language: fr
+pgterms:marc904: https://archive.org/details/hinlemaboul00noll
+pgterms:marc905: 20220124150432nolly
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: France :Calmann-Lévy,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+- GITenberg
+title: Hiên le Maboul
+url: http://www.gutenberg.org/ebooks/68588
